@@ -1,4 +1,8 @@
 aaaa
 iiii
 uuuu
+<<<<<<< HEAD
 eeee
+=======
+oooo
+>>>>>>> ああああ１
